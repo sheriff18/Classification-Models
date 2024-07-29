@@ -58,9 +58,6 @@ The final Random Forest model achieved an F1 score of 0.5412.
 
 ```
 
-## For More Information
-- See the [full project overview](https://github.com/sidneykung/cc_default_prediction/blob/master/final_notebook.ipynb) in the `final_notebook.ipynb` Jupyter Notebook.
-- For additional information or suggestions, contact Sidney Kung at [sidneyjkung@gmail.com](mailto:sidneyjkung@gmail.com)
 
 
 **Let's connect!**
